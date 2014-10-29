@@ -1,0 +1,20 @@
+{
+  "name": "UI-Icon",
+  "version": "1.0.0",
+  "title": "Semantic UI - Icon",
+  "description": "Single component release of icon",
+  "homepage": "http://www.semantic-ui.com",
+  "author": "Jack Lukic <jack@semantic-ui.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Semantic-Org/UI-Icon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
+  },
+  "dependencies": {
+    "jquery": "x.x.x"
+  },
+  "devDependencies": {}
+}
