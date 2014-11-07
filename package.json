@@ -1,10 +1,6 @@
 {
   "name": "semantic-ui-icon",
-<<<<<<< HEAD
   "version": "1.0.0-beta",
-=======
-  "version": "1.0.0",
->>>>>>> 645e63cbbc2fae7ff7aff7cea59a5eeeff94be83
   "title": "Semantic UI - Icon",
   "description": "Single component release of icon",
   "homepage": "http://www.semantic-ui.com",
