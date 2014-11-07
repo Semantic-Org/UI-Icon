@@ -1,6 +1,6 @@
 {
-  "name": "UI-Icon",
-  "version": "1.0.0",
+  "name": "semantic-ui-icon",
+  "version": "1.0.0-beta",
   "title": "Semantic UI - Icon",
   "description": "Single component release of icon",
   "homepage": "http://www.semantic-ui.com",
@@ -12,9 +12,6 @@
   },
   "bugs": {
     "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
-  },
-  "dependencies": {
-    "jquery": "x.x.x"
   },
   "devDependencies": {}
 }
