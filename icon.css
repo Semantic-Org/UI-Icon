@@ -27,7 +27,7 @@
 }
 i.icon {
   display: inline-block;
-  opacity: 0.75;
+  opacity: 1;
   margin: 0em 0.25rem 0em 0em;
   width: 1.23em;
   height: 0.9em;
@@ -97,8 +97,9 @@ i.icon.active {
 i.emphasized.icon {
   opacity: 1;
 }
-i.icon.disabled {
-  opacity: 0.3;
+i.disabled.icon {
+  pointer-events: none;
+  opacity: 0.3 !important;
 }
 
 
@@ -113,7 +114,7 @@ i.icon.disabled {
 
 i.link.icon {
   cursor: pointer;
-  opacity: 0.75;
+  opacity: 0.8;
   -webkit-transition: opacity 0.2s ease;
           transition: opacity 0.2s ease;
 }
