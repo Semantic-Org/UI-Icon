@@ -1,4 +1,4 @@
-### Version 1.0.0 - XX XX, 2014
+### Version 1.0.0 - November 24, 2014
 
 - **Form** - Date field has been removed, use a ``ui icon input`` with a ``calendar icon`` instead
 - **Label** - Corner labels no longer support text, only icons.
