@@ -8,6 +8,15 @@
 - **Rating** - Rating can now automatically generate icons without including them
 - **Steps** - Steps can now have icons, descriptions and titles. Step default theme has been modified significantly to be more flexible.
 
+### Version 0.15.5 - April 11, 2014
+
+- **Message** - Fixes hidden/visible class to set proper display on ``ui icon message``
+- **Message** - Fixes hitbox/position of ``close icon`` inside message
+
+### Version 0.15.2 - Mar 28, 2014
+
+- **Icon** - Orange color is now available for icon
+
 ### Version 0.15.0 - Mar 14, 2014
 
 - **Icon** - Icons on dark backgrounds should render better in OSX
