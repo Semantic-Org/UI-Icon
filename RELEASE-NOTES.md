@@ -1,3 +1,16 @@
+### Version 1.3.0 - December 17, 2014
+
+- **Dropdown** - Dropdown can now specify which direction a menu should appear left/right, dropdown icons can also appear on the left
+- **Step** - Fix issue with completed ordered step icon alignment
+
+### Version 1.1.0 - December 02, 2014
+
+- **Icon** - ``remove icon`` is now formatted correctly when used as ``remove link icon``
+
+### Version 1.0.1 - November 28, 2014
+
+- **Icon** - Fix horizontal centering of circular icon
+
 ### Version 1.0.0 - November 24, 2014
 
 - **Form** - Date field has been removed, use a ``ui icon input`` with a ``calendar icon`` instead
