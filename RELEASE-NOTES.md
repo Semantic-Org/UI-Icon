@@ -1,3 +1,25 @@
+### Version 1.7.0 - January 14, 2015
+
+- **Dropdown** - Fixed bug where sub menus may sometimes have dropdown icon overlap text
+- **Button** - Fix issue with labeled icon groups in material theme
+
+### Version 1.6.4 - January 12, 2015
+
+- **Build** - Fix CSS property typo in list icon, and label causing issues with some custom build tools
+
+### Version 1.6.3 - January 12, 2015
+
+- **Build** - Fix CSS property typo in list icon, and label causing issues with some custom build tools
+
+### Version 1.6.0 - January 05, 2015
+
+- **Menu** - Fixes ``ui fluid labeled icon menu`` to not have `min-width`
+
+### Version 1.5.0 - December 30, 2014
+
+- **Input** - Fixed bug when ``ui action input`` uses a ``ui icon button``, button was receiving `i.icon` formatting.
+- **List** - Fixed bug when using ``ui icon button`` or ``ui icon header`` causing element to receive icon formatting
+
 ### Version 1.3.0 - December 17, 2014
 
 - **Dropdown** - Dropdown can now specify which direction a menu should appear left/right, dropdown icons can also appear on the left
