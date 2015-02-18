@@ -1,5 +1,9 @@
  /*
+<<<<<<< HEAD
  * # Semantic UI - 1.9.0
+=======
+ * # Semantic UI - 1.7.2
+>>>>>>> addf6609a6b4e8db481fee696665ae30c92d4218
  * https://github.com/Semantic-Org/Semantic-UI
  * http://www.semantic-ui.com/
  *
@@ -2386,6 +2390,7 @@ i.icon.\33d:before {
 i.icon.weixin:before {
   content: "\f1d7";
 }
+<<<<<<< HEAD
 i.icon.binoculars:before {
   content: "\f1e5";
 }
@@ -2473,6 +2478,8 @@ i.icon.pinterest.official {
 i.icon.bed:before {
   content: "\f236";
 }
+=======
+>>>>>>> addf6609a6b4e8db481fee696665ae30c92d4218
 
 
 /*******************************

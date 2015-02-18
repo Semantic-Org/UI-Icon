@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### UI Changes
 
 - **Icon** - Added Font Awesome 4.3 including many new icons
@@ -8,6 +9,8 @@
 - **Icon** - `external link` and `external link square` has been renamed to `external icon` to no longer receive `link` styles by default
 - **Modal** - Modal now swaps to `scrolling modal` when `close icon` no longer can be displayed, instead of modal `content`
 
+=======
+>>>>>>> addf6609a6b4e8db481fee696665ae30c92d4218
 ### Version 1.7.0 - January 14, 2015
 
 - **Dropdown** - Fixed bug where sub menus may sometimes have dropdown icon overlap text
