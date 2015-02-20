@@ -1,22 +1,19 @@
-var
-  where = 'client' // Adds files only to the client
-;
 
 Package.describe({
   name    : 'semantic:ui-icon',
-  summary : 'Semantic UI - Icon (official): Single component release of icon',
-  version : '1.9.2',
+  summary : 'Semantic UI - Icon: Single component release',
+  version : '1.9.3',
   git     : 'git://github.com/Semantic-Org/UI-Icon.git',
 });
 
 Package.onUse(function(api) {
   api.versionsFrom('1.0');
   api.addFiles([
-        'assets/fonts/icons.eot',
+    'icon.css',
+    'assets/fonts/icons.eot',
     'assets/fonts/icons.otf',
     'assets/fonts/icons.svg',
     'assets/fonts/icons.ttf',
-    'assets/fonts/icons.woff',
-
-  ], where);
+    'assets/fonts/icons.woff'
+  ], 'client');
 });
