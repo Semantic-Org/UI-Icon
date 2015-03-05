@@ -1,3 +1,8 @@
+### Version 1.11.0 - March 3, 2015
+
+- **Icon** - added `@src` variable to make it adjustable with themes that dont support all types like `woff2`
+- **Icon** - Fix `clockwise rotated icon` causing `clockwise` icon to appear
+
 ### UI Changes
 
 - **Icon** - Added Font Awesome 4.3 including many new icons
