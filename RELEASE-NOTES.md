@@ -1,3 +1,20 @@
+### Version 2.0.0 - June 30, 2015
+
+- **Input** - `pointer-events` have been removed from `icon` in `icon input` unless a `link icon` is used. This is to make sure the hitbox for focusing an input includes the icon.
+- **Message** - `icon message` now uses `flexbox` for layout
+- **Checkbox** - Reduced kb size of icon font
+- **Divider** - Fixes single icon alignment inside `vertical divider` or `horizontal divider`
+- **Dropdown** - Fixed `inline dropdown` icon not aligning with content
+- **Form** - Fixed autocompleted `ui selection dropdown` having dropdown icon z-index issues
+- **Icon** - Fixes `ascending` and `descending` icon being swapped
+- **Icon** - Fixes phone icon only appearing as alias `call`
+- **Input** - Fixed improper left padding on `transparent left icon input` **Thanks @zxfwinder**
+- **Message** - Close icon position adjusted to align with headers
+- **Search** - Fix `loading search` with an `icon button` causing double loaders.
+- **Table** - Fixes `sorted` column are not correctly centered with `center aligned` due to margin on sort icon
+- **Table** - Fixes `ascending` and `descending` icons were reversed in table
+- **Icon** - `disabled icon` now have `pointer-events` again.
+
 ### Version 1.11.0 - March 3, 2015
 
 - **Icon** - added `@src` variable to make it adjustable with themes that dont support all types like `woff2`
