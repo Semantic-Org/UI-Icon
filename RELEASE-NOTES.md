@@ -1,3 +1,7 @@
+### Version 2.0.2 - July 7, 2015
+
+- **Dropdown** - Dropdown icon will now always toggle menu visibility [#2510](https://github.com/Semantic-Org/Semantic-UI/issues/2510)
+
 ### Version 2.0.0 - June 30, 2015
 
 - **Input** - `pointer-events` have been removed from `icon` in `icon input` unless a `link icon` is used. This is to make sure the hitbox for focusing an input includes the icon.
