@@ -1,3 +1,7 @@
+### Version 2.0.5 - July 20, 2015
+
+- **Message** - Fixed issues where icon would overlap in `icon message` when at mobile resolutions due to `flex-collapse` value being incorrect [#2665](https://github.com/Semantic-Org/Semantic-UI/issues/2665)
+
 ### Version 2.0.4 - July 17, 2015
 
 - **Message** - Fixes `attached icon message` not using `flex`
