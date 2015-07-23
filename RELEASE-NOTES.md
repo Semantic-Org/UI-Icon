@@ -1,3 +1,7 @@
+### Version 2.0.7 - July 22, 2015
+
+- **Dropdown** - Fixed border radius on `circular labeled icon button`  [#2700](https://github.com/Semantic-Org/Semantic-UI/issues/2700)
+
 ### Version 2.0.5 - July 20, 2015
 
 - **Message** - Fixed issues where icon would overlap in `icon message` when at mobile resolutions due to `flex-collapse` value being incorrect [#2665](https://github.com/Semantic-Org/Semantic-UI/issues/2665)
