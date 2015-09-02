@@ -1,3 +1,16 @@
+#### Features
+
+- **Icon** - Added `fitted` icon variation, and new small sizes `tiny` and `mini`
+- **Menu** - Appearance of `labeled icon menu` has been modified. Horizontal menus now have icons above text, and icons are slightly larger than before.
+- **GitHub Theme** - Added github icon theme with port of Octicons.
+
+#### Bugs
+
+- **Icon** - Fixed typo in cube icon alias caused by bad grep [#2765](https://github.com/Semantic-Org/Semantic-UI/issues/2765)
+- **Input** - Fixed issue with appearance of `left corner labeled left icon input` [#2782](https://github.com/Semantic-Org/Semantic-UI/issues/2782)
+- **Icons** - Fixed issue where `active icon` or `emphasized icon` would not adjust opacity inside menus
+- **Menu** - Fix text align on `dropdown item` inside `icon menu`
+
 ### Version 2.0.7 - July 23, 2015
 
 - **Dropdown** - Fixed border radius on `circular labeled icon button`  [#2700](https://github.com/Semantic-Org/Semantic-UI/issues/2700)
