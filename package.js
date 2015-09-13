@@ -2,7 +2,7 @@
 Package.describe({
   name    : 'semantic:ui-icon',
   summary : 'Semantic UI - Icon: Single component release',
-  version : '2.1.3',
+  version : '2.1.4',
   git     : 'git://github.com/Semantic-Org/UI-Icon.git',
 });
 
