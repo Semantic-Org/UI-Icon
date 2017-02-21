@@ -1,3 +1,10 @@
+#### Dropdown
+
+- **Icons** - Updates Font Awesome to `4.7.0` **Always the man @BreadMaker** [#4766](https://github.com/Semantic-Org/Semantic-UI/pull/4766)
+- **Button** - Fixed issue where css specificity caused `icon buttons` to not center correctly [#4487](https://github.com/Semantic-Org/Semantic-UI/pull/4487)
+- **Dropdown** - Fixed bug where clicking on a dropdown's `dropdown icon` when using remote data would not open menu [#4041](https://github.com/Semantic-Org/Semantic-UI/pull/4041)
+- **Header** - Fixed issue where using `image icon` or `image outline icon` would cause incorrect display within `ui header` due to namespace collision with `ui image` [#4145](https://github.com/Semantic-Org/Semantic-UI/pull/4145)
+
 ### Version 2.2.3 - August 21, 2016
 
 - **Button/Dropdown** - Fixed issue where `ui dropdown button` could have incorrect spacing for dropdown icon **Thanks @ilanus** [#4408](https://github.com/Semantic-Org/Semantic-UI/issues/4408)
