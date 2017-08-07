@@ -1,3 +1,7 @@
+### Version 2.2.12 - Aug 07, 2017
+
+- **Header/List** - Fixes issue where icons appear slightly offset with text due to line-height offset fixes no longer being necessary in modern browsers.
+
 ### Version 2.2.11 - July 11, 2017
 
 - **Dropdown** - Fix `loading dropdown` icon position being slightly offset
