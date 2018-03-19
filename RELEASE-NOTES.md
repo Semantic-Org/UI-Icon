@@ -1,4 +1,13 @@
-### Version 2.3.0 - Feb 19, 2018
+### Version 2.3.1 - Mar 19, 2018
+
+- **Icon** - Fixes `centered` and `bordered` icons appearing incorrectly with FA5 **Thanks @w96k** [#6192](https://github.com/Semantic-Org/Semantic-UI/issues/6192)
+- **Icons** - Fixes missing aliases/incorrect icons from Font Awesome 5 port in `2.3.0` **Thanks hammy2899** [#6181](https://github.com/Semantic-Org/Semantic-UI/issues/6181) [#6175](https://github.com/Semantic-Org/Semantic-UI/issues/6175) [#6176](https://github.com/Semantic-Org/Semantic-UI/issues/6176) [#6174](https://github.com/Semantic-Org/Semantic-UI/issues/6174) [#6175](https://github.com/Semantic-Org/Semantic-UI/issues/6175)
+- **Icons** - Fixed issue where `link icon` were appearing incorrectly due to changes in icons [#6180](https://github.com/Semantic-Org/Semantic-UI/issues/6180)
+- **Icons** - Fixes some icons that were incorrectly named. **Thanks hammy2899** [#6181](https://github.com/Semantic-Org/Semantic-UI/issues/6181)
+- **Icons** - Added ability to choose whether solid, outline and brand icons should be included in your theme via the `@importSolidIcons`, `importRegularIcons` and `@importBrandIcons` variables **Thanks hammy2899**
+- **Icons** - Increased specifity on `fitted icon` to fix compatibility with other components [#6125](https://github.com/Semantic-Org/Semantic-UI/issues/6125)
+
+### Version 2.3.0 - Feb 20, 2018
 
 - **Icons** - Font Awesome 5 is now included in Semantic UI **Thanks @hammy2899** [#6085](https://github.com/Semantic-Org/Semantic-UI/issues/6085)
 - **Icons** - Icon documentation now has a search that will copy the relevent icon html to clipboard
