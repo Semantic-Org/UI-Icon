@@ -1,4 +1,11 @@
-### Version 2.3.3 - June 18, 2018
+### Version 2.4.0 - Sep 17, 2018
+
+- **Icon** - Fixes missing `disk outline icon` alias [#6556](https://github.com/Semantic-Org/Semantic-UI/issues/6556)
+- **List** - Fixed issue where list `content` would not take up 100% width when used alongside `img` or `icon`
+- **Menu/Dropdown** - Fixes dropdown item margin not obeyed inside `labeled icon menu` [#6557](https://github.com/Semantic-Org/Semantic-UI/issues/6557)
+- **Dropdown** - `inline dropdown` `close icon` default right margin default spacing slightly modified.
+
+### Version 2.3.3 - July 8th, 2018
 
 - **Icon** - Several icon names have been deprecated due to incompatibility with `transition in` and `transition out` used in animations.
 
